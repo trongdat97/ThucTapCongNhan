@@ -1,3 +1,3 @@
-<?
-echo'hell';
->
+<?php
+echo"hell";
+?>
